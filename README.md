@@ -1,4 +1,4 @@
-# GEE-Flashflood-mapping
+# GEE-Flash Flood-mapping
 Flash Flood Inventory Mapping (Bangladesh, 2024)
 Overview
 
